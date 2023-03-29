@@ -1,0 +1,13 @@
+{
+    "name": "gbr2svg",
+    "productName": "GBR2SVG",
+    "version": "1.0.0",
+    "description": "Convert .gbr or .xgb to .svg",
+    "main": "index.js",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "gerber-to-svg": "^4.2.2"
+    }
+}
